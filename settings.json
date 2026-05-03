@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MrBean-oOJI.aternos.me:35409",
+    "ip": "MrBean-oOJI.aternos.me",
     "port": 35409,
     "version": "",
     "try-creative": false
